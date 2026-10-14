@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="blurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7983f5"/>
+      <stop offset="100%" stop-color="#4752c4"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#blurple)"/>
+  <g stroke="#ffffff" stroke-width="6" stroke-linecap="round">
+    <line x1="24" y1="16" x2="19" y2="48"/>
+    <line stroke-width="5" x1="40.5" y1="16" x2="35.5" y2="48"/>
+    <line x1="15" y1="26" x2="49" y2="26"/>
+    <line x1="14" y1="40" x2="48" y2="40"/>
+  </g>
+</svg>
